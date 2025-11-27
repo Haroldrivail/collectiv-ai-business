@@ -295,53 +295,42 @@ Each repository will include:
 
 ---
 
-## 8. Roadmap 2025–2030 (Public Version)
+## 8. Roadmap – Next 18 Months & Vision 2030
 
-> The exact dates and milestones may evolve. This is a high-level, public roadmap.
+> Exact dates and milestones may evolve. This is a high-level, public roadmap.
 
-### 2025 – Foundation & Alpha
+### 8.1 Next 12–18 Months (2025–2026)
 
 - Launch and refine website & public documentation  
 - Set up GitHub organisation and core repositories  
 - Build first routing prototypes and local proof-of-concepts  
-- Start engaging with early adopters and open-source contributors
-
-### 2026 – First CollectivAI App Prototypes
-
-- Release public alpha/beta of the CollectivAI App  
-- Support multiple AI backends and privacy modes  
+- Release first public alpha/beta of the CollectivAI App  
+- Support multiple AI backends and basic privacy modes  
 - Start pilot collaborations with:
   - research institutions
   - civic-tech organisations
   - NGOs
 
-### 2027 – Governance & Institutional Partnerships
+### 8.2 Mid-Term (2027–2028)
 
 - Formalise initial governance structures (advisory and review boards)  
 - Experiment with democratic participation mechanisms  
 - Expand collaborations with public institutions and universities  
-
-### 2028 – Expanded AI Grid & Integrations
-
 - Deploy more nodes and integrations (sovereign hosting, research data centers)  
 - Provide APIs and SDKs for 3rd-party developers and civic platforms  
 - Strengthen auditability, monitoring and transparency tools  
 
-### 2029 – Multi-Backend Model Suite
+### 8.3 Long-Term Vision 2030
 
 - Curate a diverse set of AI models:
   - European and open-source models  
   - domain-specific models (climate, democracy, law, etc.)
-- Improve optimisation of routing: quality, fairness, cost, energy efficiency  
-
-### 2030 – Sovereign Public AI Network
-
-- Run a stable, production-grade Public AI Network for Europe  
+- Run a stable, production-grade **Sovereign Public AI Network for Europe**  
 - Mature governance model with:
   - institutional participation  
   - citizen involvement  
   - strong accountability mechanisms  
-- Establish CollectivAI as a long-term public digital infrastructure component  
+- Establish CollectivAI as a long-term public digital infrastructure component
 
 
 ---
