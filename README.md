@@ -61,11 +61,11 @@ CollectivAI’s mission is to:
    Public sector, research institutions, NGOs and SMEs struggle to understand:
    - Which models fit which use cases?
    - How to integrate AI safely, ethically and cost-efficiently?
-   - How to stay compliant with GDPR and the EU AI Act?
+   - How to stay compliant with GDPR and AI regulation in Europe?
 
 ### 2.2 Market Opportunity
 
-- **Region:** Europe, with a strong focus on the EU  
+- **Region:** Europe, with a strong focus on the wider European region  
 - **Key Segments:**
   - Public administrations and government agencies  
   - Universities and research institutions  
@@ -170,7 +170,7 @@ CollectivAI delivers:
 ### 5.1 Revenue Streams (Planned)
 
 1. **Grants & Public Funding (Early Phase)**
-   - EU and national programmes (e.g. democracy, digital, AI, civic-tech, research).
+   - European and national programmes (e.g. democracy, digital, AI, civic-tech, research).
    - Foundation and philanthropy support.
    - Used to build prototypes, open-source components and governance structures.
 
@@ -198,7 +198,7 @@ CollectivAI delivers:
 
 - Product development (app, backend, infrastructure, UX)  
 - Hosting and infrastructure (servers, potential GPU capacity, monitoring)  
-- Legal & compliance (GDPR, EU AI Act, governance frameworks)  
+- Legal & compliance (GDPR, AI regulation, governance frameworks)  
 - Community & communication (documentation, events, support)  
 - Project management & administration  
 
@@ -284,7 +284,7 @@ Each repository will include:
    - Pilot mechanisms for:
      - community feedback and voting  
      - advisory assemblies for significant policy changes  
-   - Explore models that align with EU democratic principles.
+   - Explore models that align with democratic principles in Europe.
 
 4. **Institutional Integration**
    - Work with public and civic institutions to align governance structures with:
