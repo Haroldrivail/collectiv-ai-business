@@ -1,11 +1,11 @@
-# CollectivAI – Public Business Plan & Strategy (v1.0)
+# CollectiVAI – Public Business Plan & Strategy (v1.0)
 
 > **Status:** Public, non-confidential overview  
 > **Project:** CollectivAI – Democratic AI for Europe  
 > **Web:** https://collectivai.org  
 > **GitHub:** https://github.com/collectiv-ai
 
-This document describes the *public* vision, strategy and roadmap of CollectivAI.  
+This document describes the *public* vision, strategy and roadmap of CollectiVAI.  
 Detailed financial planning, internal tactics and personal data are intentionally **not** included here.
 
 
@@ -15,13 +15,13 @@ Detailed financial planning, internal tactics and personal data are intentionall
 
 ### Vision
 
-By 2030, CollectivAI aims to become a **Sovereign Public AI Network for Europe** –  
+By 2030, CollectiVAI aims to become a **Sovereign Public AI Network for Europe** –  
 a democratic, transparent and human-centered AI layer that supports citizens,  
 institutions and researchers while respecting fundamental rights and European values.
 
 ### Mission
 
-CollectivAI’s mission is to:
+CollectiVAI’s mission is to:
 
 - Strengthen **democracy** and civic participation  
 - Stabilise **economy and geopolitics** through better decision support  
@@ -80,11 +80,11 @@ There is a clear gap for a **democratically governed, open, European AI infrastr
 
 ## 3. Solution Overview
 
-### 3.1 The CollectivAI App
+### 3.1 The CollectiVAI App
 
 **Tagline:** *One interface – many AI backends.*
 
-The CollectivAI App is a unified interface that routes user requests to the most suitable AI backend, based on task type, policy and user preferences.
+The CollectiVAI App is a unified interface that routes user requests to the most suitable AI backend, based on task type, policy and user preferences.
 
 **Core Features:**
 
@@ -112,12 +112,12 @@ The CollectivAI App is a unified interface that routes user requests to the most
      - why it was chosen  
      - which policies were applied
 
-### 3.2 CollectivAI as Infrastructure
+### 3.2 CollectiVAI as Infrastructure
 
 Beyond the app, CollectivAI is an **AI infrastructure layer**:
 
 - **APIs & SDKs**  
-  - Allow organisations to integrate CollectivAI’s routing and policy engine into:
+  - Allow organisations to integrate CollectiVAI’s routing and policy engine into:
     - internal tools
     - portals and civic platforms
     - research environments
@@ -229,7 +229,7 @@ CollectivAI delivers:
 
 ### 6.2 Open Source Strategy
 
-CollectivAI is developed in the open, via the GitHub organisation:
+CollectiVAI is developed in the open, via the GitHub organisation:
 
 - https://github.com/collectiv-ai
 
@@ -396,23 +396,6 @@ Community members, institutions and developers can contribute by:
 - **Sponsorships & Support**  
   - Financial or in-kind support to accelerate development  
   - Helping with outreach, events and community building
-
-
----
-
-## 11. License & Legal (Placeholder)
-
-> **Note:** Exact licenses and legal setup are still under evaluation.
-
-Planned:
-
-- Open-source licenses for core components (e.g. MIT/Apache-2.0/AGPL – to be decided)  
-- Clear separation between:
-  - open infrastructure
-  - optional commercial services or support
-
-Legal documents and licenses will be published and updated in the relevant GitHub repositories.
-
 
 ---
 
