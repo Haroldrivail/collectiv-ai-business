@@ -13,10 +13,10 @@ Detailed financials, internal tactics and personal data are intentionally **not*
 ## 🌍 Languages
 
 - 🇬🇧 **English version:**  
-  👉 [`docs/business-plan-en.md`](docs/business-plan-en.md)
+  👉 [`docs/business-plan-en.md`](business-plan-en.md)
 
 - 🇩🇪 **Deutsche Version:**  
-  👉 [`docs/business-plan-de.md`](docs/business-plan-de.md)
+  👉 [`docs/business-plan-de.md`](business-plan-de.md)
 
 ---
 
