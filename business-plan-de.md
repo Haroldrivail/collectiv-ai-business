@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../logo.png" alt="CollectivAI Logo" width="400">
+</p>
+
 # CollectivAI – Öffentlicher Businessplan & Strategie (v1.0)
 
 > **Status:** Öffentliche, nicht-vertrauliche Übersicht  
