@@ -418,13 +418,19 @@ Community, Institutionen und Entwickler:innen können beitragen durch:
 
 ## 11. Lizenz
 
-Sofern nicht anders vermerkt, stehen die öffentlichen Dokumente in diesem Repository unter:
+**CollectiVAI Branding & Logo**
 
-**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
+Name, Logo und visuelle Identität von CollectiVAI sind geschützt.  
+Alle Rechte vorbehalten.
 
-Die Inhalte dürfen weitergegeben und angepasst werden,  
-sofern eine angemessene Namensnennung erfolgt  
-und abgeleitete Werke unter derselben Lizenz veröffentlicht werden.
+Das Projekt darf zitiert werden; Screenshots dürfen für Dokumentation,
+Forschung oder Berichterstattung verwendet werden, sofern klar erkennbar ist,
+dass CollectiVAI die ursprüngliche Quelle ist.
+
+Jede weitere Nutzung des Logos oder Brandings (z. B. in Produkten,
+Dienstleistungen oder Kampagnen) erfordert eine vorherige schriftliche Zustimmung.
+
+© David Miecznikowski, CollectiVAI.
 
 ---
 
