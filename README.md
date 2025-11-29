@@ -20,11 +20,18 @@ Detailed financials, internal tactics and personal data are intentionally **not*
 
 ---
 
-## License
+## 11. License
 
-Unless otherwise noted, the documents in this repository are published under:
+**CollectiVAI Branding & Logo**
 
-**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
+The CollectiVAI name, logo and visual identity are protected.  
+All rights reserved.
 
-You are free to share and adapt the material, as long as you provide appropriate credit
-and distribute your contributions under the same license.
+You may reference the project and use screenshots for documentation,
+research or news coverage, as long as it is clear that CollectiVAI
+is the original source.
+
+Any other use of the logo or branding (e.g. in products, services or campaigns)
+requires prior written permission.
+
+© David Miecznikowski, CollectiVAI.
