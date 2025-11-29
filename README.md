@@ -22,12 +22,10 @@ Detailed financials, internal tactics and personal data are intentionally **not*
 
 ## ⚖️ License / Lizenz
 
-> This repository is a **public strategy & vision document**.  
+> 🇬🇧🇩🇪 This repository is a **public strategy & vision document**.  
 > The following rules apply to the use of the CollectiVAI brand and logo.
 
-### EN
-
-**CollectiVAI Branding & Logo**
+### 🇬🇧 EN – CollectiVAI Branding & Logo
 
 The CollectiVAI name, logo and visual identity are protected.  
 All rights reserved.
@@ -43,9 +41,7 @@ requires prior written permission.
 
 ---
 
-### DE
-
-**CollectiVAI Branding & Logo**
+### 🇩🇪 DE – CollectiVAI Branding & Logo
 
 Name, Logo und visuelle Identität von CollectiVAI sind geschützt.  
 Alle Rechte vorbehalten.
