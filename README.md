@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="CollectivAI Logo" width="220">
+</p>
+
 # CollectivAI – Public Business Plan & Strategy
 
 > **Status:** Public, non-confidential overview  
