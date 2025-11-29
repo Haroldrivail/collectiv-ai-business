@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="CollectivAI Logo" width="220">
+  <img src="logo.png" alt="CollectivAI Logo" width="400">
 </p>
 
 # CollectivAI – Public Business Plan & Strategy
