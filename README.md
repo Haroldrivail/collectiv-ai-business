@@ -26,7 +26,7 @@ Detailed financials, internal tactics and personal data are intentionally **not*
 
 ## ⚖️ License / Lizenz
 
-> 🇬🇧🇩🇪 This repository is a **public strategy & vision document**.  
+> This repository is a **public strategy & vision document**.  
 > The following rules apply to the use of the CollectiVAI brand and logo.
 
 ### 🇬🇧 EN – CollectiVAI Branding & Logo
