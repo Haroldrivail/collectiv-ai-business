@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../logo.png" alt="CollectivAI Logo" width="400">
-</p>
-
 # CollectivAI – Öffentlicher Businessplan & Strategie (v1.0)
 
 > **Status:** Öffentliche, nicht-vertrauliche Übersicht  
@@ -422,19 +418,13 @@ Community, Institutionen und Entwickler:innen können beitragen durch:
 
 ## 11. Lizenz
 
-**CollectiVAI Branding & Logo**
+Sofern nicht anders vermerkt, stehen die öffentlichen Dokumente in diesem Repository unter:
 
-Name, Logo und visuelle Identität von CollectiVAI sind geschützt.  
-Alle Rechte vorbehalten.
+**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
 
-Das Projekt darf zitiert werden; Screenshots dürfen für Dokumentation,
-Forschung oder Berichterstattung verwendet werden, sofern klar erkennbar ist,
-dass CollectiVAI die ursprüngliche Quelle ist.
-
-Jede weitere Nutzung des Logos oder Brandings (z. B. in Produkten,
-Dienstleistungen oder Kampagnen) erfordert eine vorherige schriftliche Zustimmung.
-
-© David Miecznikowski, CollectiVAI.
+Die Inhalte dürfen weitergegeben und angepasst werden,  
+sofern eine angemessene Namensnennung erfolgt  
+und abgeleitete Werke unter derselben Lizenz veröffentlicht werden.
 
 ---
 
