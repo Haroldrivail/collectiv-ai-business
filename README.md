@@ -20,11 +20,11 @@ Detailed financials, internal tactics and personal data are intentionally **not*
 
 ---
 
-## 11. License
+## License / Lizenz
 
-**CollectiVAI Branding & Logo**
+**EN**
 
-The CollectiVAI name, logo and visual identity are protected.  
+CollectiVAI name, logo and visual identity are protected.  
 All rights reserved.
 
 You may reference the project and use screenshots for documentation,
@@ -33,5 +33,20 @@ is the original source.
 
 Any other use of the logo or branding (e.g. in products, services or campaigns)
 requires prior written permission.
+
+© David Miecznikowski, CollectiVAI.
+
+
+**DE**
+
+Name, Logo und visuelle Identität von CollectiVAI sind geschützt.  
+Alle Rechte vorbehalten.
+
+Das Projekt darf zitiert werden; Screenshots dürfen für Dokumentation,
+Forschung oder Berichterstattung verwendet werden, sofern klar erkennbar ist,
+dass CollectiVAI die ursprüngliche Quelle ist.
+
+Jede weitere Nutzung des Logos oder Brandings (z. B. in Produkten,
+Dienstleistungen oder Kampagnen) erfordert eine vorherige schriftliche Zustimmung.
 
 © David Miecznikowski, CollectiVAI.
