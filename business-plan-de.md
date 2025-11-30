@@ -1,11 +1,11 @@
 # CollectivAI – Öffentlicher Businessplan & Strategie (v1.0)
 
 > **Status:** Öffentliche, nicht-vertrauliche Übersicht  
-> **Projekt:** CollectivAI – Democratic AI for Europe  
+> **Projekt:** CollectiVAI – Democratic AI for Europe  
 > **Web:** https://collectivai.org  
 > **GitHub:** https://github.com/collectiv-ai  
 
-Dieses Dokument beschreibt die **öffentliche** Vision, Strategie und Roadmap von CollectivAI.  
+Dieses Dokument beschreibt die **öffentliche** Vision, Strategie und Roadmap von CollectiVAI.  
 Detaillierte Finanzplanung, interne Taktiken und personenbezogene Daten sind hier **bewusst nicht** enthalten.
 
 ---
@@ -31,7 +31,7 @@ Detaillierte Finanzplanung, interne Taktiken und personenbezogene Daten sind hie
 
 ### Vision
 
-Bis 2030 soll CollectivAI ein **Souveränes Öffentliches KI-Netzwerk für Europa** werden –  
+Bis 2030 soll CollectiVAI ein **Souveränes Öffentliches KI-Netzwerk für Europa** werden –  
 eine demokratische, transparente und menschenzentrierte KI-Ebene,  
 die Bürger:innen, Institutionen und Forschende unterstützt und dabei Grundrechte  
 sowie europäische Werte respektiert.
@@ -412,19 +412,7 @@ Community, Institutionen und Entwickler:innen können beitragen durch:
 
 - **Sponsoring & Unterstützung**  
   - Finanzielle oder in-kind-Unterstützung zur Beschleunigung der Entwicklung  
-  - Hilfe bei Outreach, Events und Community-Aufbau  
-
----
-
-## 11. Lizenz
-
-Sofern nicht anders vermerkt, stehen die öffentlichen Dokumente in diesem Repository unter:
-
-**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
-
-Die Inhalte dürfen weitergegeben und angepasst werden,  
-sofern eine angemessene Namensnennung erfolgt  
-und abgeleitete Werke unter derselben Lizenz veröffentlicht werden.
+  - Hilfe bei Outreach, Events und Community-Aufbau
 
 ---
 
