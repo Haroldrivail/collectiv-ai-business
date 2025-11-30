@@ -1,11 +1,11 @@
-# CollectivAI – Public Business Plan & Strategy (v1.0)
+# CollectiVAI – Public Business Plan & Strategy (v1.0)
 
 > **Status:** Public, non-confidential overview  
-> **Project:** CollectivAI – Democratic AI for Europe  
+> **Project:** CollectiVAI – Democratic AI for Europe  
 > **Web:** https://collectivai.org  
 > **GitHub:** https://github.com/collectiv-ai  
 
-This document describes the *public* vision, strategy and roadmap of CollectivAI.  
+This document describes the *public* vision, strategy and roadmap of CollectiVAI.  
 Detailed financial planning, internal tactics and personal data are intentionally **not** included here.
 
 ---
@@ -31,13 +31,13 @@ Detailed financial planning, internal tactics and personal data are intentionall
 
 ### Vision
 
-By 2030, CollectivAI aims to become a **Sovereign Public AI Network for Europe** –  
+By 2030, CollectiVAI aims to become a **Sovereign Public AI Network for Europe** –  
 a democratic, transparent and human-centered AI layer that supports citizens,  
 institutions and researchers while respecting fundamental rights and European values.
 
 ### Mission
 
-CollectivAI’s mission is to:
+CollectiVAI’s mission is to:
 
 - Strengthen **democracy** and civic participation  
 - Stabilise **economy and geopolitics** through better decision support  
@@ -93,11 +93,11 @@ There is a clear gap for a **democratically governed, open, European AI infrastr
 
 ## 3. Solution Overview
 
-### 3.1 The CollectivAI App
+### 3.1 The CollectiVAI App
 
 **Tagline:** *One interface – many AI backends.*
 
-The CollectivAI App is a unified interface that routes user requests to the most suitable AI backend, based on task type, policy and user preferences.
+The CollectiVAI App is a unified interface that routes user requests to the most suitable AI backend, based on task type, policy and user preferences.
 
 **Core Features:**
 
@@ -125,12 +125,12 @@ The CollectivAI App is a unified interface that routes user requests to the most
      - why it was chosen  
      - which policies were applied  
 
-### 3.2 CollectivAI as Infrastructure
+### 3.2 CollectiVAI as Infrastructure
 
-Beyond the app, CollectivAI is an **AI infrastructure layer**:
+Beyond the app, CollectiVAI is an **AI infrastructure layer**:
 
 - **APIs & SDKs**  
-  - Allow organisations to integrate CollectivAI’s routing and policy engine into:
+  - Allow organisations to integrate CollectiVAI’s routing and policy engine into:
     - internal tools  
     - portals and civic platforms  
     - research environments  
@@ -164,7 +164,7 @@ Beyond the app, CollectivAI is an **AI infrastructure layer**:
 
 ### 4.2 Value Proposition
 
-CollectivAI delivers:
+CollectiVAI delivers:
 
 - One unified AI **interface** instead of tool-hopping  
 - A transparent, configurable **policy & ethics layer**  
@@ -239,7 +239,7 @@ CollectivAI delivers:
 
 ### 6.2 Open Source Strategy
 
-CollectivAI is developed in the open, via the GitHub organisation:
+CollectiVAI is developed in the open, via the GitHub organisation:
 
 - https://github.com/collectiv-ai  
 
@@ -312,7 +312,7 @@ Each repository will include:
 - Launch and refine website & public documentation  
 - Set up GitHub organisation and core repositories  
 - Build first routing prototypes and local proof-of-concepts  
-- Release first public alpha/beta of the CollectivAI App  
+- Release first public alpha/beta of the CollectiVAI App  
 - Support multiple AI backends and basic privacy modes  
 - Start pilot collaborations with:
   - research institutions  
@@ -338,7 +338,7 @@ Each repository will include:
   - institutional participation  
   - citizen involvement  
   - strong accountability mechanisms  
-- Establish CollectivAI as a long-term public digital infrastructure component  
+- Establish CollectiVAI as a long-term public digital infrastructure component  
 
 ---
 
@@ -419,13 +419,13 @@ is the original source.
 Any other use of the logo or branding (e.g. in products, services or campaigns)
 requires prior written permission.
 
-© David Miecznikowski, CollectiVAI.
+© David Compasso, CollectiVAI.
 
 ---
 
 ## 12. Contact
 
-- **Project:** CollectivAI  
+- **Project:** CollectiVAI  
 - **Web:** https://collectivai.org  
 - **GitHub:** https://github.com/collectiv-ai  
 
