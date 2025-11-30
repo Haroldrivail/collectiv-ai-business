@@ -79,7 +79,7 @@ CollectiVAI is split into several focused repositories:
 
 - 👤 **Founder profile & portfolio**  
   Background, lab setup and ecosystem overview:  
-  [`collectiv-ai-about-founder`](https://github.com/collectiv-ai/about-founder)
+  [`collectiv-ai-about-founder`](https://github.com/collectiv-ai/collectiv-ai-about-founder)
 
 - 🤝 **Sponsors & partners**  
   Information for supporters, institutions and programmes:  
