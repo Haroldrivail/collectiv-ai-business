@@ -105,7 +105,7 @@ Any other use of the logo or branding
 (e.g. in products, services or campaigns)  
 requires prior written permission.
 
-© David Miecznikowski, CollectiVAI.
+© David Compasso, CollectiVAI.
 
 ---
 
@@ -122,4 +122,4 @@ Jede weitere Nutzung des Logos oder Brandings
 (z. B. in Produkten, Dienstleistungen oder Kampagnen)  
 erfordert eine vorherige schriftliche Zustimmung.
 
-© David Miecznikowski, CollectiVAI.
+© David Compasso, CollectiVAI.
